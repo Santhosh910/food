@@ -90,3 +90,11 @@ body{
 .tr{
     font-size: xx-large;
 }
+.line{
+    text-align: center;
+    font-size: 3rem;
+    text-decoration:line-through;
+    
+    
+
+}
